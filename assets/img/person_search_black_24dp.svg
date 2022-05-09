@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="person_search_black_24dp" opacity="0.7">
+    <g id="Group_1770" data-name="Group 1770">
+      <rect id="Rectangle_3522" data-name="Rectangle 3522" width="30" height="30" fill="none"/>
+    </g>
+    <g id="Group_1772" data-name="Group 1772" transform="translate(2.5 5)">
+      <g id="Group_1771" data-name="Group 1771">
+        <path id="Path_1152" data-name="Path 1152" d="M11,14A5,5,0,1,0,6,9,5,5,0,0,0,11,14Zm0-7.5A2.5,2.5,0,1,1,8.5,9,2.507,2.507,0,0,1,11,6.5Z" transform="translate(-1 -4)"/>
+        <path id="Path_1153" data-name="Path 1153" d="M4.5,19c.275-.9,4.137-2.5,7.5-2.5a7.431,7.431,0,0,1,.438-2.487C9.025,13.886,2,15.586,2,19v2.5H13.925A7.344,7.344,0,0,1,12.438,19Z" transform="translate(-2 -1.499)"/>
+        <path id="Path_1154" data-name="Path 1154" d="M21.288,19.525A4.83,4.83,0,0,0,22,17a5,5,0,1,0-5,5,4.948,4.948,0,0,0,2.525-.712L22.737,24.5,24.5,22.737C22.625,20.862,23.512,21.738,21.288,19.525ZM17,19.5A2.5,2.5,0,1,1,19.5,17,2.507,2.507,0,0,1,17,19.5Z" transform="translate(0.5 -2)"/>
+      </g>
+    </g>
+  </g>
+</svg>
